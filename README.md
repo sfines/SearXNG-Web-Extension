@@ -16,7 +16,7 @@ Extension use `manifest.json` settings which change your main search engine.
 
 Example:
 
-(**Default settings**)
+**Default settings**
 ```json
 {
   "chrome_settings_overrides": {
@@ -27,7 +27,7 @@ Example:
 }
 ```
 
-(**With addon**)
+**With addon**
 ```json
 {
   "chrome_settings_overrides": {
